@@ -1,0 +1,6 @@
+{
+  "description": "Restarts the bot to update the source code.",
+  "parameters": "",
+  "aliases": [ "restart", "reload", "re" ],
+  "exempt": false
+}

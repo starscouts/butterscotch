@@ -1,0 +1,6 @@
+{
+  "description": "Shows how many command credits you have left.",
+  "parameters": "",
+  "aliases": [ "credit", "credits", "quota", "q" ],
+  "exempt": true
+}

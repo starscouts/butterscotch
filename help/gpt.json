@@ -1,0 +1,6 @@
+{
+  "description": "Ask something to ChatGPT.",
+  "parameters": " <prompt>",
+  "aliases": [ "chatgpt", "openai", "chat" ],
+  "exempt": false
+}

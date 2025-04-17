@@ -1,0 +1,6 @@
+{
+  "description": "Sends an adorable pony, either random or with a query.",
+  "parameters": " [query]",
+  "aliases": [ "cutie", "derpibooru", "db", "adorable", "c" ],
+  "exempt": false
+}

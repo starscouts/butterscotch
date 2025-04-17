@@ -1,0 +1,8 @@
+{
+  "Knowledge": [ "ask", "ip", "math", "status", "gpt" ],
+  "Derpibooru": [ "cute", "nsfw", "id", "query" ],
+  "Fun": [ "fortune", "roll", "what" ],
+  "Technical": [ "help", "mem", "ping", "usage", "debug" ],
+  "Private": [ "evening", "killswitch", "reboot", "love" ],
+  "Execution": [ "eval", "xeval", "meval", "reset" ]
+}

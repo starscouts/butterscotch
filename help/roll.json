@@ -1,0 +1,6 @@
+{
+  "description": "Roll a dice, or many dices.",
+  "parameters": " <x>d<y>",
+  "aliases": [ "dice", "d", "r" ],
+  "exempt": false
+}

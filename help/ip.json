@@ -1,0 +1,6 @@
+{
+  "description": "Looks up an IP address's location.",
+  "parameters": " <address>",
+  "aliases": [ "lookup", "ipv4", "ipv6", "i" ],
+  "exempt": false
+}

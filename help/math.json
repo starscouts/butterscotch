@@ -1,0 +1,6 @@
+{
+  "description": "Solves a math problem with a lot of detail.",
+  "parameters": " <problem>",
+  "aliases": [ "problem", "m", "equation", "explain" ],
+  "exempt": false
+}

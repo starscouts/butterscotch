@@ -1,0 +1,6 @@
+{
+  "description": "Shows the status of Equestria.dev's systems.",
+  "parameters": "",
+  "aliases": [ "s", "statuspage", "state", "servers" ],
+  "exempt": false
+}

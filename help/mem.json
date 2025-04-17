@@ -1,0 +1,6 @@
+{
+  "description": "Gets information about memory usage.",
+  "parameters": "",
+  "aliases": [ "ram", "memory" ],
+  "exempt": true
+}

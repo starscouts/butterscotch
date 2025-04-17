@@ -1,0 +1,6 @@
+{
+  "description": "Shows debugging information to diagnose issues.",
+  "parameters": "",
+  "aliases": [ "info", "wtf" ],
+  "exempt": false
+}

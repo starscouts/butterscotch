@@ -1,0 +1,6 @@
+{
+  "description": "Get some help about the bot.",
+  "parameters": " [command]",
+  "aliases": [ "h", "?", "list", "commands" ],
+  "exempt": true
+}

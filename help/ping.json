@@ -1,0 +1,6 @@
+{
+  "description": "Shows how long it takes to do stuff.",
+  "parameters": "",
+  "aliases": [ "hello", "pong", "doot", "boop" ],
+  "exempt": true
+}

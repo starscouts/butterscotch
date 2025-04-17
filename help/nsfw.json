@@ -1,0 +1,6 @@
+{
+  "description": "Sends an explicit image, either random or with a query.",
+  "parameters": " [query]",
+  "aliases": [ "explicit", "porn" ],
+  "exempt": false
+}

@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "dependencies": {
+    "@equestria.dev/signal.js": "^1.1.2-1",
+    "axios": "^1.4.0",
+    "discord.js": "^14.10.2",
+    "matrix-js-sdk": "^25.0.0",
+    "node-duckduckgo": "^2.0.18",
+    "nodemon": "^2.0.22",
+    "showdown": "^2.1.0"
+  }
+}

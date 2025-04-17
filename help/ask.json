@@ -1,0 +1,6 @@
+{
+  "description": "Ask anything, anytime.",
+  "parameters": " <query>",
+  "aliases": [ "wolfram", "knowledge", "question", "wa", "a" ],
+  "exempt": false
+}

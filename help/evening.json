@@ -1,0 +1,6 @@
+{
+  "description": "Shows a summary of the evening schedule.",
+  "parameters": " [day]",
+  "aliases": [ "schedule", "planner", "f", "plan", "e", "evening" ],
+  "exempt": false
+}

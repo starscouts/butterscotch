@@ -1,0 +1,6 @@
+{
+  "description": "Forcefully stops the bot in case of an emergency.",
+  "parameters": "",
+  "aliases": [ "kill", "ks", "ass", "stop", "estop", "es" ],
+  "exempt": false
+}

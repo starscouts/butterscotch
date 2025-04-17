@@ -1,0 +1,6 @@
+{
+  "description": "Deletes your current .eval context.",
+  "parameters": "",
+  "aliases": [ "restart", "unlink", "delete" ],
+  "exempt": false
+}

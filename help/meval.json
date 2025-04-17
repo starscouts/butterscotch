@@ -1,0 +1,6 @@
+{
+  "description": "Runs JavaScript code on the bot in the main context.",
+  "parameters": "<code>",
+  "aliases": [ "main" ],
+  "exempt": false
+}

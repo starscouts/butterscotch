@@ -1,0 +1,6 @@
+{
+  "description": "Unwraps a fortune cookie, but it's from Equestria.",
+  "parameters": " [filter]",
+  "aliases": [ "pony", "ponyfortune", "fo", "cookie" ],
+  "exempt": false
+}

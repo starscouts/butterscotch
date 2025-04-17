@@ -1,0 +1,6 @@
+{
+  "description": "Shows the current love score.",
+  "parameters": "",
+  "aliases": [ "sc", "love", "l" ],
+  "exempt": false
+}
